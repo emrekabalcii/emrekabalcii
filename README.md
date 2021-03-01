@@ -4,5 +4,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrekabalcii" alt="emrekabalcii" /> </p>
 
 - 🔭 I'm currently working on **Data Engineering**
-- 🌱 I’m currently learning **Data Visualization, GoLang, Tensorflow, Keras, Machine Learning Algorithms, Data Pipeline on Cloud Platforms**
+- 🌱 I’m currently learning **Data Visualization, Tensorflow, Keras, Machine Learning Algorithms, Data Pipeline on Cloud Platforms**
 - 📫 How to reach me: emrekabalcii@gmail.com
